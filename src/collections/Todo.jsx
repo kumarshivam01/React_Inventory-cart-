@@ -5,7 +5,7 @@ function Todo(props){
     // console.log(abc)
     const [num, setNum]=useState(1)
     const [total,setTotal] = useState(10)
-
+//
     var sum = 0
     sum += props.price*num
     console.log(sum)
