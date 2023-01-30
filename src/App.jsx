@@ -19,6 +19,7 @@ function App() {
      {Data.map(cart)}
     </div>
   );
+  
 }
 
 export default App;
